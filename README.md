@@ -51,6 +51,10 @@ Apaixonado por soluções de backend e frontend integradas e eficientes 🚀
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0080FF?style=for-the-badge&logo=render&logoColor=white)
 
+### 💻 Editores / IDEs
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-5A45FF?style=for-the-badge&logo=cursor&logoColor=white)
+
 ---
 
 ## 📊 Estatísticas do GitHub  
